@@ -32,6 +32,6 @@ func main() {
 
 		fmt.Println("Fayl push qilindi:", filename)
 
-		time.Sleep(12 * time.Hour) // 12 soat kutadi
+		time.Sleep(30 * time.Second) // 12 soat kutadi
 	}
 }
